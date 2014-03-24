@@ -5,9 +5,14 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
+
         <title>Jim Andresen</title>
-        <meta name="description" content="Pastor, leader, husband, friend, web technologist and wanna be comedian.">
-        
+        <meta name="description" content="A simple web technologist who is helping to make the internet a better place to be.">
+        <link rel="apple-touch-icon" href="touch-icon-iphone.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="touch-icon-ipad.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="touch-icon-iphone-retina.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="touch-icon-ipad-retina.png">
+        <link rel="shortcut icon" href="favicon.ico" />
         <!--CSS styles-->
         <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="css/base.css">
