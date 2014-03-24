@@ -16,6 +16,16 @@
 
     </head>
     <body>
+        <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-41271192-1', 'jimandresen.com');
+          ga('send', 'pageview');
+
+        </script>
         <!-- Preloader -->
         <div id="preloader">
             <div id="text-load">
@@ -450,7 +460,7 @@
                         </div>
                         <!-- /Charactristics -->
 
-                        <!-- Design skills -->
+                        <!-- PM skills -->
                         <div class="section darker">
                             <div class="container">
                                 <div class="center-heading">
@@ -502,7 +512,7 @@
                                 <!-- /Vertical Bars -->
                             </div>
                         </div>
-                        <!-- /Design skills -->
+                        <!-- /PM skills -->
                     </div>
                 </div>
             </section>
