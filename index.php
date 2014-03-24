@@ -11,7 +11,7 @@
         <!--CSS styles-->
         <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="css/base.css">
-        <link rel="stylesheet" href="css/styles/yellow.css" id="theme-style">
+        <link rel="stylesheet" href="css/styles/default.css" id="theme-style">
         <!--/CSS styles-->
 
     </head>
